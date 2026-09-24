@@ -26,7 +26,8 @@ Areas with Damage:
 
 # Hail
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4c2e1c3-2bd6-4e4c-8e56-95cb78f05aa1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33154c7c-017e-4753-a6cf-3d72512e5169" />
+
 
 # Wind
 
