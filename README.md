@@ -48,7 +48,8 @@ Areas with Damage:
 
 
 3. Facing Claire Road - Uphill
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73a9d2d1-32ab-46ff-b7dc-0ef02d6f7d59" />
+
 
 
 # 🏠 Phelps Island / Lake Minnetonka weather and damage-photo timeline
