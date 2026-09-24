@@ -6,7 +6,7 @@
 Areas with Damage:
 1. Double French Door facing Lake from Pool Room - Blown open with Storm in February 2026
 2. Triple Floor to Ceiling Window - Blown almost off breaking hinge, window framing in February 2026
-3. Roof damage including Snow Ice and Hail Damage to Multiple Locations of roof.  Ice sheeting and hail/ice accumulation.
+3. Roof damage including Snow Ice and Hail Damage to Multiple Locations of roof.  Ice sheeting and hail/ice accumulation winter 2025-2026.
 
 # Images showing damage areas
 
