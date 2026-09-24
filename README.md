@@ -1,4 +1,52 @@
-Ice, Wind, Storms, Hail Damage
+# Ice, Wind, Storms, Hail Damage Documentation
+
+
+## Observations of snow, wind, ice, storm damage
+
+Areas with Damage:
+1. Double French Door facing Lake from Pool Room - Blown open with Storm in February 2026
+2. Triple Floor to Ceiling Window - Blown almost off breaking hinge, window framing in February 2026
+3. Roof damage including Snow Ice and Hail Damage to Multiple Locations of roof.  Ice sheeting and hail/ice accumulation.
+
+# Images showing damage areas
+
+# Ice Damage
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2e5b4ec2-1b7f-44a7-99ea-92ae3386367c" />
+
+<img width="656" height="875" alt="image" src="https://github.com/user-attachments/assets/f971f93f-28d9-4e2b-9176-913cc65899af" />
+
+<img width="656" height="875" alt="image" src="https://github.com/user-attachments/assets/47b09f43-d843-4ee3-baeb-71cd3cb624e3" />
+
+<img width="656" height="875" alt="image" src="https://github.com/user-attachments/assets/44d928b1-55e2-46e4-9727-a4314c93ee57" />
+
+<img width="656" height="875" alt="image" src="https://github.com/user-attachments/assets/b5c53b63-444a-44e1-8aa4-b45c96139fb7" />
+
+<img width="1799" height="875" alt="image" src="https://github.com/user-attachments/assets/29b7eb3b-bfeb-4ac5-b94f-c055b5c7d0a1" />
+
+# Hail
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4c2e1c3-2bd6-4e4c-8e56-95cb78f05aa1" />
+
+# Wind
+
+
+
+# Time
+
+
+# Phelps Island - Home Side, Top, Roof Views Overhead
+
+1. Lake Facing Side 3D Model from Aerial View
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f84c13a4-8e40-406c-b2d4-16cbc419ea57" />
+
+2. Facing Road / Driveway
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdb91225-c650-496a-908f-e6c4f49c5215" />
+
+
+3. Facing Claire Road - Uphill
 
 
 # 🏠 Phelps Island / Lake Minnetonka weather and damage-photo timeline
