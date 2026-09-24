@@ -10,7 +10,37 @@ Areas with Damage:
 
 # Images showing damage areas
 
-# Ice Damage
+# French Doors and Triple Windows Damage
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/432ecbe6-6c46-4eb1-97d9-712f4dbc816a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7d7e18f-6bc6-4ff6-924f-6655c57e8415" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fa84861-fea0-4532-83bd-8d55d8a2443e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05bf4204-5a03-4791-b691-11e3dc317372" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f84cc9a1-d466-42cc-be96-7b004e3802d2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62cc3738-a853-45ac-8798-d713093faff4" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0a56999-d356-4447-b016-9a227af92ea8" />
+
+
+
+
+# Ice and Snow Damage
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/646c6ffc-5c0e-4f09-8446-6c0136420e89" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f314395-2813-4a7f-8854-15dd93e67ac7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e506521-9f1a-45ff-a1b1-73568211e382" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f952da8d-5214-4fbf-98bc-4ab2afdf295e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/309c1e67-d54f-465c-915d-2f0f17c6c387" />
+
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2e5b4ec2-1b7f-44a7-99ea-92ae3386367c" />
 
