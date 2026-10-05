@@ -71,6 +71,41 @@ With each rain the damage is getting worse so I need to move now with repair wor
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33154c7c-017e-4753-a6cf-3d72512e5169" />
 
+# Rain
+
+<img width="1689" height="1267" alt="image" src="https://github.com/user-attachments/assets/2353a664-a03a-4c15-b5bb-5a1bdd8ef952" />
+
+## Carpet Damage
+
+<img width="950" height="1267" alt="image" src="https://github.com/user-attachments/assets/aff12f03-c5fc-4d5e-a79b-52802f6e0f00" />
+
+## Pool Window:
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6ab3e28b-d6e8-483f-854a-2a043375ad3a" />
+
+# Gazebo Roof
+
+<img width="950" height="1267" alt="image" src="https://github.com/user-attachments/assets/4196b613-0983-40cd-82d7-6429912a7179" />
+
+# Roof and Trim Pieces / Faschia Aluminum
+
+<img width="950" height="1267" alt="image" src="https://github.com/user-attachments/assets/1ec81d6c-6fbb-4cca-92b6-40b6035fce3f" />
+
+# Ice Dam Indentions Shown From Ice and Snow Damage
+
+<img width="1689" height="1267" alt="image" src="https://github.com/user-attachments/assets/ec996f7f-db0e-4665-b7ef-cc5115b3e466" />
+
+# Interior Insulation, Drywall, and Seam Taping 
+
+<img width="1689" height="1267" alt="image" src="https://github.com/user-attachments/assets/a1c8b558-eb42-4d3c-b5a8-8f89df208e4e" />
+
+# Foyer and Hall Ceiling Damage From Roof At Corners, Chimney / Attic Corner
+
+<img width="1689" height="1267" alt="image" src="https://github.com/user-attachments/assets/c8285d00-4f47-40b2-8934-a47eeb3add47" />
+
+<img width="1689" height="1267" alt="image" src="https://github.com/user-attachments/assets/e48b2e1d-d3ca-4923-9822-52850c86da45" />
+
+
 ---
 
 # Damage Remediation Plan Documentation
