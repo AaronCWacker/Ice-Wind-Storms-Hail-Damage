@@ -140,11 +140,15 @@ This is claim part 1.  Claim part 2 is the cedar siding where more than twenty p
 
 2. Continual issues with their 'claim website' not working, inability to contact them after hours, and no live way to remediate or submit claim.
 
-3. Failure for adjusters to come out within months of february, march, april, may, june, july, and then finally in September an adjuster came out and now they just deny the claim without materials I need to show.  This complete failure of the insurance company to respond or approve the repair work I need is leaving me unprepared for winter since these issues will soon get worse and cause further damage to the house if not fixed.
+3. Failure for adjusters to come out within months of february, march, april, may, june, july, and then finally in September an adjuster came out and now they just deny a claim.
+This failure of insurance company to respond or approve repair work I need is leaving me unprepared for winter.
+With each rain its getting worse and worse and causing further damage to the house until its fixed.
+The roof is broken and leaking above entrance and the two sides facing lake are damaged significantly as well as gazebo roof where both need replacement.  
+This plan is shown for the replacement of roof of both house and gazebo, fixing all missing tiles, and parts blown off and damaged on house including bay window bottom, and all places with exposed insulation and leaks into the house.
 
-The roof is broken and leaking above entrance and the two sides facing lake are damaged significantly as well as gazebo roof where both need replacement.  I need to know insurance commissioner details and plan to file these with insurance commissioner building a legal case and plan to get an attorney and sue for the replacement of roof of both house and gazebo, fixing all missing tiles, and parts blown off and damaged on house including bay window bottom, and all places with exposed insulation and leaks into the house.  Attached are a few documents with evidence including pictures of ice, hail, causing the issues.  In my 3d model shown below the french door set is D-L01 (Gazebo shown too with roof.) and in this W-S03 is the window.  My immediate priority this month before winter storms is to replace this double door set and 3 pane window.  
+Attached are a few documents with evidence including pictures of ice, hail, causing the issues.  In my 3d model shown below the french door set is D-L01 (Gazebo shown too with roof.) and in this W-S03 is the window.  My immediate priority this month before winter storms is to replace this double door set and 3 pane window.  This would resolve safety and further damage to pool room.
 
-My second priority is fixing the leaking and holes in roof for House and Gazebo including the missing corner caps and water paths where roof trows meet.  
+My second priority is fixing the leaking and holes in roof for House and Gazebo including the missing corner caps and water paths where roof trows meet around the chimeny to outer wall causing water damage shown which gets worse with each rainfall.  
 
 My third priority is then fixing the cedar tiles that are missing and lost from both the house and gazebo.  
 
