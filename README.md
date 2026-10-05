@@ -76,8 +76,10 @@ This was February __ I believe.  The purpose of this document is to describe the
 Below is the best of my ability to specify the remediation/fix plan of the damaged areas including in order of priority related to further damages these are causing due to not fixing the damage:
 
 1. Three Pane floor to ceiling 9 foot by 6 foot double pane break resistant glass with shattered arm, window panes sliding out - highest danger of further damage and/or injury if not replaced now.
+W-503 - Triple 9 foot x 6 foot windows set.
 
 2. Double french glass doors with floor to ceiling glass panes / break resistant glass, heavy wood framing.  These are both in pool room sustaining damage from the wind storm and show water damage.
+D-L01 - French Double Glass Doors set. 
 
 3. Roof, Siding and aluminum faschia damage and loss (all) at multiple locations (Many tiles and cedar is lost, blown off or broken in these locations:
 - Above second floor lake facing balcony the upper corner is missing (aluminum guard which protects insulation)
@@ -87,8 +89,6 @@ Below is the best of my ability to specify the remediation/fix plan of the damag
 - Due to broken faschia and water drainage around chimney roof corners, a drainage slope is entering front hall on the roof corner between chimeny thru edge of roof.  Multiple water damage inside front hall roof around wall, stairs and landing.
 - Replace and fix roof around chimney and corner thru wall, and replace insulation, drywall and repaint hall (walls and ceiling have two damage points where water is entering pooling and getting worse.
 
-W-503 - Triple 9 foot x 6 foot windows set.
-D-L01 - Franch Double Glass Doors set. 
 House with windows labeled:
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/88eb0a66-71c6-4da7-96df-8c63bae0814f" />
@@ -97,7 +97,19 @@ House with windows labeled:
 
 Plan for claim for my insurance company to provide for repair of multiple damage of my property and buildings on 4704 Cavan Road in Mound MN 55364.  
 
-In Feb 2026 I called the insurance company American Family to report wind damage after a wind storm blew in to the pool room breaking french doors and the air pressure blew out a six foot high by 3 foot wide window from the glass shearing to the arm assembly wood and frame damage with pock marks of hail on the window and total destruction of the wood framing.  the windows are floor to ceiling windows and three panes wide so effectively 9 foot wide by 6 foot high - the whole 3 part window and double french heavy glass doors (double Doors).  This is claim part 1.  Claim part 2 is the cedar siding where more than twenty parts of my cedar siding on house, and gazebo have been broken off by wind and storm with ice damage and wind damage.  This has multiple places where the framing aluminum metal was ripped off and blown away leaving wood and insulation underneath exposed to elements.  On the roof as well of the house multiple places sustained heavy ice flow and damage from ice and snow storms in 2025 and 2026.  I need to supply all parts of this claim since I have tried unsuccessfully now 3 times to put in a claim and faced numerous problems including:  1. Misrouting of my claim to auto glass within insurance company call tree (after an hour of talking with two people from amfam.  2. Continual issues with their 'claim website' not working, inability to contact them after hours, and no live way to remediate or submit claim.  3. Failure for adjusters to come out within months of february, march, april, may, june, july, and then finally in September an adjuster came out and now they just deny the claim without materials I need to show.  This complete failure of the insurance company to respond or approve the repair work I need is leaving me unprepared for winter since these issues will soon get worse and cause further damage to the house if not fixed.  The roof is broken and leaking above entrance and the two sides facing lake are damaged significantly as well as gazebo roof where both need replacement.  I need to know insurance commissioner details and plan to file these with insurance commissioner building a legal case and plan to get an attorney and sue for the replacement of roof of both house and gazebo, fixing all missing tiles, and parts blown off and damaged on house including bay window bottom, and all places with exposed insulation and leaks into the house.  Attached are a few documents with evidence including pictures of ice, hail, causing the issues.  In my 3d model shown below the french door set is D-L01 (Gazebo shown too with roof.) and in this W-S03 is the window.  My immediate priority this month before winter storms is to replace this double door set and 3 pane window.  My second priority is fixing the leaking and holes in roof for House and Gazebo including the missing corner caps and water paths where roof trows meet.  My third priority is then fixing the cedar tiles that are missing and lost from both the house and gazebo.  Help me document this and report these as detailed claims with the background to win a legal case since insurance company once routed me wrong and didnt create my initial claim that I reported, then twice following closed claims I opened, unable to get adjuster out in timely fashion, and then last with recent meeting of my work contractors and second adjuster just flat out denied and closed third claim report attempt.  With this fourth attempt I want to copy and CC all communications with but the insurance commissioner for MN and my legal team to pursue suing the insurance company to get the work completed before winter.  Help me document this as markdown outline which I will keep in github repository and print as pdf to share with insurance company, contractors, and legal team to make sure this gets done and I dont keep getting barriers to getting the work done.
+In Feb 2026 I called the insurance company American Family to report wind damage after a wind storm blew in to the pool room breaking french doors and the air pressure blew out a six foot high by 3 foot wide window from the glass shearing to the arm assembly wood and frame damage with pock marks of hail on the window and total destruction of the wood framing.  the windows are floor to ceiling windows and three panes wide so effectively 9 foot wide by 6 foot high - the whole 3 part window and double french heavy glass doors (double Doors).  
+
+This is claim part 1.  Claim part 2 is the cedar siding where more than twenty parts of my cedar siding on house, and gazebo have been broken off by wind and storm with ice damage and wind damage.  This has multiple places where the framing aluminum metal was ripped off and blown away leaving wood and insulation underneath exposed to elements.  On the roof as well of the house multiple places sustained heavy ice flow and damage from ice and snow storms in 2025 and 2026.  I need to supply all parts of this claim since I have tried unsuccessfully now 3 times to put in a claim and faced numerous problems including:  1. Misrouting of my claim to auto glass within insurance company call tree (after an hour of talking with two people from amfam.  
+
+2. Continual issues with their 'claim website' not working, inability to contact them after hours, and no live way to remediate or submit claim.
+
+3. Failure for adjusters to come out within months of february, march, april, may, june, july, and then finally in September an adjuster came out and now they just deny the claim without materials I need to show.  This complete failure of the insurance company to respond or approve the repair work I need is leaving me unprepared for winter since these issues will soon get worse and cause further damage to the house if not fixed.
+
+The roof is broken and leaking above entrance and the two sides facing lake are damaged significantly as well as gazebo roof where both need replacement.  I need to know insurance commissioner details and plan to file these with insurance commissioner building a legal case and plan to get an attorney and sue for the replacement of roof of both house and gazebo, fixing all missing tiles, and parts blown off and damaged on house including bay window bottom, and all places with exposed insulation and leaks into the house.  Attached are a few documents with evidence including pictures of ice, hail, causing the issues.  In my 3d model shown below the french door set is D-L01 (Gazebo shown too with roof.) and in this W-S03 is the window.  My immediate priority this month before winter storms is to replace this double door set and 3 pane window.  
+
+My second priority is fixing the leaking and holes in roof for House and Gazebo including the missing corner caps and water paths where roof trows meet.  My third priority is then fixing the cedar tiles that are missing and lost from both the house and gazebo.  
+
+Help me document this and report these as detailed claims with the background to win a legal case since insurance company once routed me wrong and didnt create my initial claim that I reported, then twice following closed claims I opened, unable to get adjuster out in timely fashion, and then last with recent meeting of my work contractors and second adjuster just flat out denied and closed third claim report attempt.  With this fourth attempt I want to copy and CC all communications which should include insurance company, contractors, and potential legal team if we keep getting barriers to getting this repair work done.
 
 # Phelps Island - Home Side, Top, Roof Views Overhead
 
@@ -109,23 +121,34 @@ In Feb 2026 I called the insurance company American Family to report wind damage
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdb91225-c650-496a-908f-e6c4f49c5215" />
 
-
 3. Facing Claire Road - Uphill
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73a9d2d1-32ab-46ff-b7dc-0ef02d6f7d59" />
 
 
+# 🏠 Phelps Island / Lake Minnetonka weather and damage timeline
 
-# 🏠 Phelps Island / Lake Minnetonka weather and damage-photo timeline
-
-**Period requested:** January 1, 2025–September 23, 2026.  
-**Prepared:** September 23, 2026.  
 **Area:** Phelps Island, Mound, Lake Minnetonka, western Hennepin County; nearby observations are named individually.
 
-This is a sourced chronology of documented significant storms and relevant snow/cold/thaw periods to compare against original damage photos. It is not a certified property-specific weather report or an exhaustive list of every shower, advisory, or light snowfall. No photo files, claim documents, exact property coordinates, or date of the first window failure were supplied for this review.
+This is a sourced chronology of documented significant storms and relevant snow/cold/thaw periods to compare against original damage photos. 
+It is not a certified property-specific weather report or an exhaustive list of every shower, advisory, or light snowfall. 
+No photo files, claim documents, exact property coordinates, or date of the first window failure were supplied for this review.
 
-**Legend:** 🧊 hail or ice (specified in each entry) · 💨 wind · 🌧️ rain · 🌊 high water/flooding · ❄️ snow · 🥶 cold snap · 🌡️ thaw/temperature swing · 🌪️ tornado nearby · 📢 warning/news alert.
+**Legend:** 
+🧊 hail or ice (specified in each entry)
+💨 wind
+🌧️ rain
+🌊 high water/flooding
+❄️ snow
+🥶 cold snap
+🌡️ thaw/temperature swing
+🌪️ tornado nearby
+📢 warning/news alert
 
-**Evidence distinction:** Named observations belong to their station or community. Warning values describe a threatened hazard; they do not establish that speed or hail size at the house. Watershed averages do not establish water intrusion. Times are local Minnesota time (CST/CDT), unless an original linked product displays UTC. Light snow and non-storm thaws are expressly included as background for matching ice photos.
+**Evidence distinction:** Named observations belong to their station or community. 
+Warning values describe a threatened hazard; they do not establish that speed or hail size at the house. 
+Watershed averages do not establish water intrusion. 
+Times are local Minnesota time (CST/CDT), unless an original linked product displays UTC. 
+Light snow and non-storm thaws are expressly included as background for matching ice photos.
 
 1. **2025-01-11–12 — ❄️ Early snow cover**
    - Regional background: a light snowfall preceded later cold and thaw periods; the official Twin Cities total was 0.8 inch. This was not a major local snowstorm.
@@ -325,12 +348,22 @@ This is a sourced chronology of documented significant storms and relevant snow/
 
 ## 🧊 Matching the icicle and ice-flow photos
 
-The most useful comparison windows identified here are December 9–29, 2025; January 5–13, 2026; February 17–19, 2026; and March 14–23, 2026. These are candidate periods for reviewing photos, not determinations of when or why the house was damaged.
+The most useful comparison windows identified here are: 
+December 9–29, 2025; 
+January 5–13, 2026; 
+February 17–19, 2026; and 
+March 14–23, 2026. 
 
-University of Minnesota Extension explains that roof ice dams depend on snow melting on a warmer roof area and refreezing at a colder edge. Air temperatures alone cannot establish roof-surface conditions. A photograph of a three-foot icicle documents that visible feature; by itself it does not establish the source of an interior leak or the date of the initiating storm. [UMN Extension explanation](https://extension.umn.edu/garden-and-home/home-maintenance/caring-for-a-home/dealing-with-and-preventing-ice-dams).
+These are candidate periods for reviewing photos, not determinations of when or why the house was damaged.
+
+University of Minnesota Extension explains that roof ice dams depend on snow melting on a warmer roof area and refreezing at a colder edge. 
+Air temperatures alone cannot establish roof-surface conditions. 
+A photograph of a three-foot icicle documents that visible feature; 
+by itself it does not establish the source of an interior leak or the date of the initiating storm.
+
+[UMN Extension explanation](https://extension.umn.edu/garden-and-home/home-maintenance/caring-for-a-home/dealing-with-and-preventing-ice-dams).
 
 For each photo, retain the original file and record:
-
 - Original filename, device, capture date/time, and time zone; keep edited copies separately.
 - Roof edge, gutter, wall, window, door, or room shown; identify the compass-facing side where known.
 - Wide view and close view, with scale for icicle length or damage size if available.
@@ -340,41 +373,24 @@ For each photo, retain the original file and record:
 
 ## 🪟 Pool-room window and claim chronology
 
-**Owner-reported account, not independently verified here:** Aaron reports that lake-facing wind forced French doors inward and that a pool-room window broke outward. Aaron also reports roughly three claim closures and no adjuster visit for the initial damage report. The storm date, insurer identity/policy wording, AFICS role, correspondence, and physical failure sequence have not been verified in this research.
-
-Keep the observed sequence in your own words. Preserve photographs of the door latches, hinges, frame, window frame, and glass location if available. The direction of broken glass alone does not establish a specific pressure mechanism.
+I am reporting that lake-facing wind forced French doors inward and that a pool-room window broke outward.
+I am also reporting roughly three claim closures, and also barriers and misrouting and malfunctioning web sites and claims processes with no adjuster visits for the initial damage report in Feb 2026 despite the call the night of the incident breaking the pool room door and window. 
 
 | Record | Date/time | Supporting file or detail |
 |---|---|---|
-| Last known undamaged condition | To fill | Original photo or other record |
-| French-door / window incident | To fill | Observation, original photos, witnesses |
-| First report to agent/company | To fill | Email, portal receipt, call record |
-| First closure | To fill | Written notice and stated reason |
-| Reopening / additional evidence | To fill | Submission and acknowledgment |
+| Last known undamaged condition | 2024-2025? | Original photo or other record |
+| French-door / window incident | 02-17-2026? | Observation, original photos, witnesses |
+| First report to agent/company | 02-17-2026 | Email, portal receipt, call record |
+| First closure | Failure to create a claim number despite the Phoned in report | Written notice and stated reason |
+| Reopening / additional evidence | March/2026 | Submission and acknowledgment |
 | Second closure | To fill | Written notice and stated reason |
 | Further reopening / evidence | To fill | Submission and acknowledgment |
-| Third closure, if applicable | To fill | Written notice and stated reason |
+| Third closure, if applicable | Claim Denial | Written notice and stated reason |
 | Inspection requests and responses | To fill | Dates, names, written replies |
 | Inspection actually completed | To fill | Name, date, report, scope—or not completed |
 | Temporary protection and repairs | To fill | Photos, invoices, receipts |
 
-## 🔎 Coverage, additional leads, and source quality
-
-- The latest relevant event verified in this outline is September 18–19, 2026; the review cutoff is September 23. A gap in entries is not evidence that no weather or damage occurred.
-- The review combined NWS Twin Cities event summaries, Minnesota DNR climate journals, NWS daily climate/precipitation statements, MCWD watershed updates, local reporting, and archived warnings. An additional IEM warning review checked Mound, Excelsior, and Wayzata town-center points, not the exact property.
-- NWS event summaries describe selected significant events. NOAA's finalized Storm Events records generally lag the event by several months. [NWS archive and publication timing](https://www.weather.gov/mpx/events).
-- Commercial hail maps were used only for warning-text corroboration and leads, not as proof of ground hail at the house.
-- A smaller nearby hail event occurred June 23, 2026: NWS archived public/mPING reports list quarter-inch hail 1 WSW Victoria and estimated half-inch hail 1 NW Chaska. It was not classified here as a major damaging local storm. [Victoria report](https://mesonet.agron.iastate.edu/p.php?pid=202606232033-KMPX-NWUS53-LSRMPX) · [Chaska report](https://mesonet.agron.iastate.edu/p.php?pid=202606232034-KMPX-NWUS53-LSRMPX).
-- April 13, June 29, and July 1–2, 2026 generated substantial statewide headlines, but the major damage or flooding documented in the reviewed summaries was elsewhere; those distant extremes were not assigned to Phelps Island.
-- No verified damaging August 2026 Phelps Island event was established in this review. This does not exclude isolated, unreported, or nonwarned weather.
-- DNR's May 19–21, 2025 article has a stray “2024” in its text; its publication date, event context, and journal placement establish 2025. The June 28–29, 2025 DNR URL itself ends in “2055”; its title and body identify 2025.
-- December 9–10, 2025 snowfall differs slightly between the DNR early recap and final daily MSP table; “about four inches” avoids false precision.
-- No roof-specific ice-dam duration, three-foot icicle measurement, shoreline ice-shove event, property gust, or causal attribution is established without the corresponding property evidence.
-
-
-
-
-These records establish nearby weather, not the cause of damage at your house. Warning speeds and hail sizes are identified as threats; measurements belong to the named location. This covers documented significant events and useful ice-photo comparison periods, rather than every shower or advisory.
+---
 
 Legend: 🧊 hail/ice · 💨 wind · 🌧️ rain · ❄️ snow · 🥶 cold · 🌡️ thaw · 🌊 flooding/high water · 📢 warning/news.
 
