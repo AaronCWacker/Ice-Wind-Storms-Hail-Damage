@@ -8,7 +8,16 @@ Areas with Damage:
 
 # Images showing damage areas
 
-# French Doors and Triple Windows Damage
+# French Doors and Triple Window Damage Broken from Wind
+
+The french doors blew open during the wind storm and we heard a crash as the window (three pane floor to ceiling window) blew open and from lake wind coming from Black Lake to Phelps Island where I live.
+
+The windows broke the framing around the deadbolt broke wood.  The window was broken in multiple places including, arm, wood framing, double glass pane, aluminum holding glass sheets (6 foot tall break resistant glass) dislodging panes which were sliding down and off. 
+
+Both my wife and I were home upstairs when we heard the crash.  I had called insurance company after lifting and moving glass panes up to partly close broken window.  I spent two hours on the phone with them as I went through lots of questions, then was transferred to auto glass repair a different company entirely at the end of describing the breakage to the home window and safety issues / services.  No insurance agent or adjuster ever came out, had problems getting claim with no correctly functioning web site and the phone problems with call tree and transfers.
+
+This was February __ I believe.  The purpose of this document is to describe the different damage I am reporting and the claim information request for payment to repair and replace the broken parts related to wind and also snow, ice and hail which will be shown on the parts of the house that are damaged from late winter storms December thru February.  I will also report and show damages and pictures of proof of damages due to snow, ice and wind.
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/432ecbe6-6c46-4eb1-97d9-712f4dbc816a" />
 
