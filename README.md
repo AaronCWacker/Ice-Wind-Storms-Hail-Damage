@@ -132,7 +132,7 @@ My third priority is then fixing the cedar tiles that are missing and lost from 
 
 **Area:** Phelps Island, Mound, Lake Minnetonka, western Hennepin County; nearby observations are named individually.
 
-This is a sourced chronology of documented significant storms and relevant snow/cold/thaw periods to compare against original damage photos. 
+Chronology of documented significant storms and relevant snow/cold/thaw periods to compare against original damage photos. 
 It is not a certified property-specific weather report or an exhaustive list of every shower, advisory, or light snowfall. 
 No photo files, claim documents, exact property coordinates, or date of the first window failure were supplied for this review.
 
@@ -150,7 +150,7 @@ No photo files, claim documents, exact property coordinates, or date of the firs
 **Evidence distinction:** Named observations belong to their station or community. 
 Warning values describe a threatened hazard; they do not establish that speed or hail size at the house. 
 Watershed averages do not establish water intrusion. 
-Times are local Minnesota time (CST/CDT), unless an original linked product displays UTC. 
+Times are local Minnesota time (CST/CDT)
 Light snow and non-storm thaws are expressly included as background for matching ice photos.
 
 
@@ -188,14 +188,11 @@ Light snow and non-storm thaws are expressly included as background for matching
    - Sources: [Primary record / report](https://www.dnr.state.mn.us/climate/journal/warm-march-21-2026.html)
 
 University of Minnesota Extension explains that roof ice dams depend on snow melting on a warmer roof area and refreezing at a colder edge. 
-Air temperatures alone cannot establish roof-surface conditions. 
-A photograph of a three-foot icicle documents that visible feature; by itself it does not establish the source of an interior leak or the date of the initiating storm.
-
 [UMN Extension explanation](https://extension.umn.edu/garden-and-home/home-maintenance/caring-for-a-home/dealing-with-and-preventing-ice-dams).
 
-For each photo, retain the original file and record:
-- Original filename, device, capture date/time, and time zone; keep edited copies separately.
-- Roof edge, gutter, wall, window, door, or room shown; identify the compass-facing side where known.
+For each photo I intend to look for the following useful information to help with this claim:
+- Roof edge, gutter, wall, window, door, or room shown;
+- compass-facing side where known.
 - Wide view and close view, with scale for icicle length or damage size if available.
 - Date damage was first noticed, which may differ from the photo date and weather-event date.
 - Matching timeline entry, source link, and whether the connection is confirmed, approximate, or still unknown.
