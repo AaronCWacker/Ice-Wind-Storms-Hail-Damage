@@ -66,19 +66,27 @@ This was February __ I believe.  The purpose of this document is to describe the
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33154c7c-017e-4753-a6cf-3d72512e5169" />
 
 
-# Wind
 
 
 
-# Time
+---
 
+# Damage Remediation Plan Documentation
 
+Below is the best of my ability to specify the remediation/fix plan of the damaged areas including in order of priority related to further damages these are causing due to not fixing the damage:
 
+1. Three Pane floor to ceiling 9 foot by 6 foot double pane break resistant glass with shattered arm, window panes sliding out - highest danger of further damage and/or injury if not replaced now.
 
+2. Double french glass doors with floor to ceiling glass panes / break resistant glass, heavy wood framing.  These are both in pool room sustaining damage from the wind storm and show water damage.
 
+3. Roof, Siding and aluminum faschia damage and loss (all) at multiple locations (Many tiles and cedar is lost, blown off or broken in these locations:
+- Above second floor lake facing balcony the upper corner is missing (aluminum guard which protects insulation)
+- Below second floor bay window facing lake
+- Gazebo - entire roof cedar shake tile.  Fix and replace Gazebo roof, sheeting, insulation.  Noticable holes on lake side and octogonal joints are missing about 30% tiles and tar sheeting beneath exposing inside of gazebo to rain and elements and insulation replacement.
+- Aluminum framing for windows, wind and ice damage causing bends breaks and exposed wood around frames of windows.
+- Due to broken faschia and water drainage around chimney roof corners, a drainage slope is entering front hall on the roof corner between chimeny thru edge of roof.  Multiple water damage inside front hall roof around wall, stairs and landing.
+- Replace and fix roof around chimney and corner thru wall, and replace insulation, drywall and repaint hall (walls and ceiling have two damage points where water is entering pooling and getting worse.
 
-
-# Ice, Wind, Storms, Hail Damage Remediation Plan Documentation
 
 House with windows labeled:
 
